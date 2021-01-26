@@ -1,2 +1,2 @@
-# datascience-rprog-asiignment2
+# datascience-rprog-assignment2
 Lexical Scoping in R
